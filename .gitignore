@@ -1,0 +1,27 @@
+# EasyEDA auto-backup files
+*.json_backup
+*.gz
+*.bak
+*~*
+
+# EasyEDA temp/export files
+*.zip
+*.rar
+*.tar
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs or exported images/videos (if not needed in repo)
+*.log
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# VS Code settings (optional, if you're sharing code too)
+.vscode/
