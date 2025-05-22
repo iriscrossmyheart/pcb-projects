@@ -3,6 +3,7 @@
 This repository contains a collection of custom-designed PCBs for various electronics projects. All boards are created using EasyEDA and tested for functionality in real-world applications.
 
 How to Make a Circuit Board: https://www.youtube.com/watch?v=la5BafeXsUI
+Order Circuit Boards: https://jlcpcb.com/
 
 ---
 
