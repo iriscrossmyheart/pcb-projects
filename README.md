@@ -2,9 +2,17 @@
 
 This repository contains a collection of custom-designed PCBs for various electronics projects. All boards are created using EasyEDA and tested for functionality in real-world applications.
 
+How to Make a Circuit Board: https://www.youtube.com/watch?v=la5BafeXsUI
+
 ---
 
 ## 📦 Project List
+
+### 555 Timer Flashing LED circuit **Description:** 
+In this video Chris creates a schematic symbol for the 7555 timer. This will allow us to connect other symbols to the pins that represent the physical pins. 
+
+Video: https://www.youtube.com/watch?v=LaUd8WfFooU
+Article: https://contextualelectronics.com/topic/creating-schematic-symbols-gtb-5-0/
 
 ### 🔌 Power Supply Module
 **Description:** A compact LM7805-based 5V regulated power supply board.
