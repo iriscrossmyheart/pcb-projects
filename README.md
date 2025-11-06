@@ -76,5 +76,5 @@ This repository is open-source under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-- GitHub: [@fawazshabir](https://github.com/fawazshabir)
+- GitHub: [@iriscrossmyheart](https://github.com/iriscrossmyheart)
 - More boards and updates coming soon!
