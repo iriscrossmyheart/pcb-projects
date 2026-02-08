@@ -51,13 +51,16 @@ Article: https://contextualelectronics.com/topic/creating-schematic-symbols-gtb-
 
 ---
 
+### Temperature + Pressure Sensor
+**Description:** PCB Design using a BMP390 module.
+
 ## 📂 Folder Structure
 
-
 Each folder contains:
-- `schematic.json` or `.schdoc`: EasyEDA/KiCad schematic
-- `board.png`: Rendered board layout (top and bottom)
-- `README.md`: Specific details and build instructions for each project
+- `schematic.json` or `.schdoc`: EasyEDA/KiCad schematic in schematics folder
+- Rendered board layout (top and bottom) screenshots in layout folder
+- Gerber file in manufacturing folder
+- `README.md`
 
 ---
 
@@ -68,13 +71,6 @@ Each folder contains:
 
 ---
 
-## 📄 License
-
-This repository is open-source under the [MIT License](LICENSE).
-
----
-
 ## 📫 Contact
 
 - GitHub: [@iriscrossmyheart](https://github.com/iriscrossmyheart)
-- More boards and updates coming soon!
