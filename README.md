@@ -54,6 +54,8 @@ Article: https://contextualelectronics.com/topic/creating-schematic-symbols-gtb-
 ### Temperature + Pressure Sensor
 **Description:** PCB Design using a BMP390 module.
 
+📁 Folder: `BMP390 Pressure + Temperature Sensor/`
+
 ## 📂 Folder Structure
 
 Each folder contains:
