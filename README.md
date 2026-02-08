@@ -15,42 +15,6 @@ In this video Chris creates a schematic symbol for the 7555 timer. This will all
 Video: https://www.youtube.com/watch?v=LaUd8WfFooU
 Article: https://contextualelectronics.com/topic/creating-schematic-symbols-gtb-5-0/
 
-### 🔌 Power Supply Module
-**Description:** A compact LM7805-based 5V regulated power supply board.
-- Input: 7–12V DC
-- Output: 5V DC regulated
-- Includes power LED, screw terminals
-
-📁 Folder: `power-supply/`
-
----
-
-### 🎙️ Audio Amplifier Board
-**Description:** Simple audio amplifier using LM386 for small speaker output.
-- Gain configurable with capacitor
-- Compact layout
-- Breadboard compatible
-
-📁 Folder: `audio-amplifier/`
-
----
-
-### 🌡️ Sensor Breakout Board
-**Description:** Custom breakout for DHT11/DHT22 sensors with pull-up resistors and headers.
-- Clean mounting on perfboard or enclosure
-- Bypass capacitor included
-
-📁 Folder: `sensor-breakout/`
-
----
-
-### 📍 GSM Antenna Board (Optional Project)
-**Description:** PCB for SIM800L module with external antenna connector, filtering caps, and UART pins.
-
-📁 Folder: `gsm-antenna/`
-
----
-
 ### Temperature + Pressure Sensor
 **Description:** PCB Design using a BMP390 module.
 
